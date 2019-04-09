@@ -31,6 +31,6 @@
     "lib": "./lib"
   },
   "peerDependencies": {
-    "mocha": ">=1.8.1"
+    "mocha": "1.8.1"
   }
 }
